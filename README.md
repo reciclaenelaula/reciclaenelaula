@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**reciclaenelaula/reciclaenelaula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**reciclaenelula/reciclaenelaula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
